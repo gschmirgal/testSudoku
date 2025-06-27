@@ -55,7 +55,7 @@ Grille résolue :
 Pour tester une autre grille, modifiez simplement le tableau `grid` dans `launch.java`.
 
 ## Auteur
-- Projet réalisé par [Votre Nom]
+- Projet réalisé par SCHMIRGAL Guillaume
 
 ## Licence
 Ce projet est open-source et libre d'utilisation.
